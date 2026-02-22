@@ -721,4 +721,4 @@ git log --graph --oneline --all   # Visualize branch history
 
 ---
 
-**Happy coding! 🎉 You now have all the tools to collaborate on projects and contribute to open source.**
+**Happy coding! 🎉 You now have all the tools to collaborate on projects and contribute to open source!**
